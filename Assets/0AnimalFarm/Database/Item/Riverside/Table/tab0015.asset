@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: tab0015
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 49a769ef1c7d4d743844715eb62e3c49, type: 3}
+  thumbnail: {fileID: 21300000, guid: 979100d772d11af4cb41af91dd56791c, type: 3}
+  id: tab0015
+  Level: 3
+  TH:
+    name: "\u0E42\u0E15\u0E4A\u0E30\u0E40\u0E19\u0E22\u0E41\u0E02\u0E47\u0E07"
+    desc: "\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E19\u0E22\u0E41\u0E02\u0E47\u0E07\u0E17\u0E35\u0E48\u0E01\u0E34\u0E19\u0E1A\u0E48\u0E2D\u0E22\u0E41\u0E04\u0E48\u0E44\u0E2B\u0E19\u0E01\u0E47\u0E44\u0E21\u0E48\u0E40\u0E04\u0E22\u0E40\u0E1A\u0E37\u0E48\u0E2D!"
+  US:
+    name: Cheesy table
+    desc: the cheesy table is never gets cheesy!
+  itemsType: 13
+  currency:
+    price: 290200
+    coin: 16
+    expReward: 620
+    reqExp: 18
+  actionTime: 5
+  unlock_name: []
+  points: []

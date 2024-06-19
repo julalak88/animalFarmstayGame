@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Art_JPG
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 45
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6223cd4840f37cc45b39a6f9d6c0b46c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bf5bb861d1cf0a4408ac4151c90cd5d9: 21300000
+    - 2fe9c1c1ec95ec846ba4ce0e5d18f082: 21300000
+    - b9ef05e880d202f4884ab4d35246b920: 21300000
+    - 991bc4bbc108b3042bde21931a8a08fe: 21300000
+    - 54ea150c3d2d07b43862547cbcf14e15: 21300000
+    - 9dcc18cd8d32f8d4e941eb34bbcec18e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bf5bb861d1cf0a4408ac4151c90cd5d9, type: 3}
+  - {fileID: 21300000, guid: 2fe9c1c1ec95ec846ba4ce0e5d18f082, type: 3}
+  - {fileID: 21300000, guid: b9ef05e880d202f4884ab4d35246b920, type: 3}
+  - {fileID: 21300000, guid: 991bc4bbc108b3042bde21931a8a08fe, type: 3}
+  - {fileID: 21300000, guid: 54ea150c3d2d07b43862547cbcf14e15, type: 3}
+  - {fileID: 21300000, guid: 9dcc18cd8d32f8d4e941eb34bbcec18e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - resort_bg
+  - Minimap_03_BG
+  - home_bg
+  - BG_01
+  - farm_bg
+  - minimap_BG
+  m_RenderDataMap: {}
+  m_Tag: Art_JPG
+  m_IsVariant: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: hou0000
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 7a9ad0badb552be43b5f195a7390820b, type: 3}
+  thumbnail: {fileID: 21300000, guid: cbef6497e989189418a1938336c1c1ae, type: 3}
+  id: hou0000
+  Level: 0
+  TH:
+    name: "\u0E01\u0E23\u0E30\u0E17\u0E48\u0E2D\u0E21\u0E40\u0E01\u0E48\u0E32"
+    desc: "\u0E01\u0E23\u0E30\u0E17\u0E48\u0E2D\u0E21\u0E40\u0E25\u0E47\u0E01 \u0E46
+      \u0E40\u0E01\u0E48\u0E32\u0E0B\u0E2D\u0E21\u0E0B\u0E48\u0E2D\u0E41\u0E15\u0E48\u0E01\u0E47\u0E22\u0E31\u0E07\u0E1E\u0E2D\u0E2D\u0E22\u0E39\u0E48\u0E44\u0E14\u0E49..."
+  US:
+    name: Old Cottage
+    desc: A little old cottage... is it possible to live in?
+  itemsType: 0
+  currency:
+    price: 0
+    coin: 78
+    expReward: 0
+    reqExp: 0
+  actionTime: 5
+  unlock_name: []
+  points:
+  - {x: 0.12, y: 2.35}

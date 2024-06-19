@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: kic0009
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: eaf2a9ed22e5cbf489bc4e67ddcaec7c, type: 3}
+  thumbnail: {fileID: 21300000, guid: 78ce49548a5880f4f835e228313d31b4, type: 3}
+  id: kic0009
+  Level: 5
+  TH:
+    name: "\u0E1B\u0E38\u0E22\u0E40\u0E21\u0E06\u0E41\u0E2A\u0E19\u0E2B\u0E27\u0E32\u0E19"
+    desc: "\u0E01\u0E49\u0E2D\u0E19\u0E40\u0E21\u0E06\u0E08\u0E30\u0E23\u0E2A\u0E0A\u0E32\u0E15\u0E34\u0E2B\u0E27\u0E32\u0E19\u0E41\u0E1A\u0E1A\u0E19\u0E35\u0E49\u0E23\u0E36\u0E40\u0E1B\u0E25\u0E48\u0E32\u0E19\u0E30?"
+  US:
+    name: Sweet cotton candy
+    desc: Does the clouds taste so sweet?
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 12
+  currency:
+    price: 825000
+    coin: 84
+    expReward: 2790
+    reqExp: 86
+  actionTime: 5
+  unlock_name: []
+  points: []

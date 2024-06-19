@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: ftk0003
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 129f94ac3d1d8374bb78e76288a4aa26, type: 3}
+  thumbnail: {fileID: 21300000, guid: 934c445a70df23e49acb088d30044add, type: 3}
+  id: ftk0003
+  Level: 4
+  TH:
+    name: "\u0E1B\u0E31\u0E07\u0E0A\u0E4A\u0E2D\u0E1B"
+    desc: "\u0E40\u0E21\u0E25\u0E48\u0E2D\u0E19\u0E1B\u0E31\u0E07\u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E34\u0E19\u0E04\u0E49\u0E32\u0E02\u0E32\u0E22\u0E14\u0E35
+      \u0E21\u0E35\u0E41\u0E04\u0E48\u0E19\u0E01\u0E17\u0E35\u0E48\u0E15\u0E37\u0E48\u0E19\u0E40\u0E0A\u0E49\u0E32\u0E40\u0E17\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19\u0E17\u0E35\u0E48\u0E08\u0E30\u0E44\u0E14\u0E49\u0E01\u0E34\u0E19"
+  US:
+    name: Pan-shop
+    desc: The melon ban is the best seller. Only the early bird catch it.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 10
+  currency:
+    price: 81000
+    coin: 158
+    expReward: 415
+    reqExp: 160
+  actionTime: 5
+  unlock_name:
+  - fod0025
+  - fod0026
+  - fod0027
+  points:
+  - {x: -3.45, y: -6.839}

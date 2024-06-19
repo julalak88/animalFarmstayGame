@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: ben0001
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 487c5871414d115438f2b90fdf91ee8e, type: 3}
+  thumbnail: {fileID: 21300000, guid: 6c044749da8574046b0ab3ec85207a80, type: 3}
+  id: 
+  Level: 1
+  TH:
+    name: "\u0E21\u0E49\u0E32\u0E19\u0E31\u0E48\u0E07\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E07\u0E48\u0E32\u0E22"
+    desc: "\u0E41\u0E04\u0E48\u0E40\u0E2D\u0E32\u0E41\u0E1C\u0E48\u0E19\u0E44\u0E21\u0E49\u0E27\u0E32\u0E07\u0E1A\u0E19\u0E2B\u0E34\u0E19
+      \u0E01\u0E47\u0E44\u0E14\u0E49\u0E21\u0E49\u0E32\u0E19\u0E31\u0E48\u0E07\u0E41\u0E1A\u0E1A\u0E07\u0E48\u0E32\u0E22\u0E46\u0E41\u0E25\u0E49\u0E27"
+  US:
+    name: Basic Bench
+    desc: Just put a piece of wood on the stone. We will get a basic bench.
+  itemsType: 14
+  currency:
+    price: 900
+    coin: 7
+    expReward: 9
+    reqExp: 0
+  actionTime: 5
+  unlock_name:
+  - gst0007
+  points: []

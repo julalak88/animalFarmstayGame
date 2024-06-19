@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: ftk0005
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 0ba87485ae1dee24cb4dbef9a25f9b64, type: 3}
+  thumbnail: {fileID: 21300000, guid: c204e968aba96f9449d3113787c69611, type: 3}
+  id: ftk0005
+  Level: 3
+  TH:
+    name: "\u0E04\u0E32\u0E40\u0E1F\u0E48\u0E15\u0E32\u0E2A\u0E27\u0E48\u0E32\u0E07"
+    desc: "\u0E41\u0E04\u0E48\u0E44\u0E14\u0E49\u0E01\u0E25\u0E34\u0E48\u0E19\u0E01\u0E47\u0E15\u0E32\u0E2A\u0E27\u0E48\u0E32\u0E07\u0E16\u0E36\u0E07\u0E40\u0E0A\u0E49\u0E32\u0E41\u0E25\u0E49\u0E27"
+  US:
+    name: Awakening cafe
+    desc: Just the smell can make you awake until morning.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 11
+  currency:
+    price: 163500
+    coin: 203
+    expReward: 825
+    reqExp: 205
+  actionTime: 5
+  unlock_name:
+  - fod0042
+  - fod0043
+  - fod0044
+  points:
+  - {x: 1.89, y: -6.78}

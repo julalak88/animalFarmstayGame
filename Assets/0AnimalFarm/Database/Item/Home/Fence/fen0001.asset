@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: fen0001
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 9346267bd1b53eb4282d48ea38889e50, type: 3}
+  thumbnail: {fileID: 21300000, guid: bdda91601c3685b488e36032a7b974ed, type: 3}
+  id: fen0001
+  Level: 1
+  TH:
+    name: "\u0E23\u0E31\u0E49\u0E27\u0E14\u0E2D\u0E01\u0E44\u0E21\u0E493"
+    desc: "\u0E23\u0E31\u0E49\u0E27\u0E14\u0E2D\u0E01\u0E44\u0E21\u0E49\u0E02\u0E2D\u0E07\u0E15\u0E01\u0E41\u0E15\u0E48\u0E07\u0E2A\u0E27\u0E19"
+  US:
+    name: fence
+    desc: fence  is beautiful
+  itemsType: 2
+  currency:
+    price: 1600
+    coin: 0
+    expReward: 16
+    reqExp: 16
+  actionTime: 5
+  unlock_name: []
+  points: []

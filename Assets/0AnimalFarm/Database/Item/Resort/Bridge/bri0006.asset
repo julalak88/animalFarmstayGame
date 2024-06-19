@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: bri0006
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: efd16473347c926448b01d9f6739f885, type: 3}
+  thumbnail: {fileID: 21300000, guid: 2758e714018348142b01718e3c9ab43c, type: 3}
+  id: bri0006
+  Level: 1
+  TH:
+    name: "\u0E40\u0E2A\u0E49\u0E19\u0E17\u0E32\u0E07\u0E43\u0E1A\u0E1A\u0E31\u0E27"
+    desc: "\u0E14\u0E36\u0E4B\u0E07 \u0E14\u0E36\u0E4B\u0E07 \u0E01\u0E23\u0E30\u0E42\u0E14\u0E14\u0E14\u0E36\u0E4B\u0E07\u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E19\u0E04\u0E38\u0E13\u0E01\u0E1A"
+  US:
+    name: A Lotus Way
+    desc: Jump, jump, like a frog.
+  itemsType: 9
+  currency:
+    price: 470400
+    coin: 122
+    expReward: 124
+    reqExp: 2044
+  actionTime: 5
+  unlock_name: []
+  points: []

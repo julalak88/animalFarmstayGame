@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94000221978ae841b0df772265c47cc, type: 3}
+  m_Name: que0000
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 797567e19e106a844b6d7faefa4d27e2, type: 3}
+  thumbnail: {fileID: 0}
+  id: que0000
+  Level: 1
+  TH:
+    name: 
+    desc: "\u0E40\u0E01\u0E47\u0E1A&5 \u0E40\u0E2B\u0E23\u0E35\u0E22\u0E0D\u0E04\u0E38\u0E01\u0E01\u0E35\u0E49"
+  US:
+    name: 
+    desc: 
+  questType: 0
+  action: 0
+  idItem: 
+  rewardImg: {fileID: 21300000, guid: 797567e19e106a844b6d7faefa4d27e2, type: 3}
+  total: 5
+  coinReward: 300

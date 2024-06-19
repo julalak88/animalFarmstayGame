@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: ftk0006
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 3d04d91151ca18e4199b8da5370874b4, type: 3}
+  thumbnail: {fileID: 21300000, guid: eb6e87a336a2a9347a65b7772dad0d78, type: 3}
+  id: ftk0006
+  Level: 1
+  TH:
+    name: "\u0E23\u0E49\u0E32\u0E19\u0E02\u0E32\u0E22\u0E17\u0E32\u0E42\u0E01\u0E30"
+    desc: "\u0E17\u0E32\u0E42\u0E01\u0E30\u0E22\u0E32\u0E01\u0E34\u0E2B\u0E2D\u0E21\u0E46
+      \u0E01\u0E34\u0E19\u0E01\u0E35\u0E48\u0E25\u0E39\u0E01\u0E01\u0E47\u0E44\u0E21\u0E48\u0E1E\u0E2D"
+  US:
+    name: Tako shop
+    desc: Too delicious to stop eating.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 11
+  currency:
+    price: 321000
+    coin: 248
+    expReward: 1575
+    reqExp: 250
+  actionTime: 5
+  unlock_name:
+  - fod0001
+  - fod0029
+  points:
+  - {x: 1.89, y: -6.78}

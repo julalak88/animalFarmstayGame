@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: sht0001
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 8611332236ace134d915f2c5ed2e8426, type: 3}
+  thumbnail: {fileID: 21300000, guid: e8818bdd0f26c7249b1770a10bcaecf6, type: 3}
+  id: sht0001
+  Level: 1
+  TH:
+    name: "\u0E01\u0E23\u0E30\u0E17\u0E48\u0E2D\u0E21\u0E0D\u0E35\u0E48\u0E1B\u0E38\u0E48\u0E19"
+    desc: "\u0E2D\u0E34\u0E23\u0E31\u0E0A\u0E0A\u0E31\u0E22\u0E21\u0E32\u0E40\u0E2A\u0E30~!"
+  US:
+    name: Japanese Shelter
+    desc: Irasshaimase~!
+  itemsType: 3
+  currency:
+    price: 4200
+    coin: 40
+    expReward: 42
+    reqExp: 42
+  actionTime: 5
+  unlock_name: []
+  points: []

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: pon0004
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 9a7854c23c348f443b8dda7172dbd8b3, type: 3}
+  thumbnail: {fileID: 21300000, guid: 26eeadd7573a6aa4da890b87ca6c1611, type: 3}
+  id: pon0004
+  Level: 2
+  TH:
+    name: "\u0E1A\u0E48\u0E2D\u0E19\u0E49\u0E33\u0E41\u0E1A\u0E1A\u0E0D\u0E35\u0E48\u0E1B\u0E38\u0E48\u0E19"
+    desc: "\u0E2D\u0E22\u0E32\u0E01\u0E08\u0E30\u0E21\u0E35\u0E08\u0E34\u0E15\u0E43\u0E08\u0E17\u0E35\u0E48\u0E2A\u0E07\u0E1A\u0E19\u0E34\u0E48\u0E07\u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E19\u0E01\u0E31\u0E1A\u0E1A\u0E48\u0E2D\u0E19\u0E49\u0E33\u0E41\u0E1A\u0E1A\u0E0D\u0E35\u0E48\u0E1B\u0E38\u0E48\u0E19\u0E1A\u0E49\u0E32\u0E07\u0E08\u0E31\u0E07\u0E40\u0E25\u0E22"
+  US:
+    name: Japanese Pond
+    desc: Want to be as calm as water in a Japanese pond.
+  itemsType: 8
+  currency:
+    price: 104000
+    coin: 71
+    expReward: 73
+    reqExp: 590
+  actionTime: 5
+  unlock_name:
+  - gst0052
+  points:
+  - {x: 3.503, y: 0.07}

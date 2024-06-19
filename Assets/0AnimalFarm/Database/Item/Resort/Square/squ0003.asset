@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: squ0003
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 951922acec932bd45830249a5aca765b, type: 3}
+  thumbnail: {fileID: 21300000, guid: 2fc8c8f6583fac14498b87abebdf0219, type: 3}
+  id: squ0003
+  Level: 1
+  TH:
+    name: "\u0E1B\u0E49\u0E32\u0E22\u0E44\u0E21\u0E49\u0E1A\u0E2D\u0E01\u0E17\u0E32\u0E07"
+    desc: "\u0E08\u0E33\u0E40\u0E1B\u0E47\u0E19\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E21\u0E32\u0E01\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E1F\u0E32\u0E23\u0E4C\u0E21\u0E2A\u0E40\u0E15\u0E22\u0E4C\u0E17\u0E35\u0E48\u0E21\u0E35\u0E1E\u0E37\u0E49\u0E19\u0E17\u0E35\u0E48\u0E01\u0E27\u0E49\u0E32\u0E07\u0E43\u0E2B\u0E0D\u0E48"
+  US:
+    name: Wooden Signage
+    desc: Very necessary for a large farm stay.
+  itemsType: 16
+  currency:
+    price: 30000
+    coin: 34
+    expReward: 36
+    reqExp: 192
+  actionTime: 5
+  unlock_name: []
+  points: []

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Coin
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4004698909
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3162653161
+    locked: 0
+  - name: PlayArea
+    uniqueID: 2437739687
+    locked: 0
+  - name: OverPlayArea
+    uniqueID: 3816168205
+    locked: 0
+  - name: UI
+    uniqueID: 2787411571
+    locked: 0
+  - name: TopUI
+    uniqueID: 1384689291
+    locked: 0

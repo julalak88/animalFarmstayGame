@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da9c255adbeba7d46a46bc3b06dd9e6d, type: 3}
+  m_Name: resort
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 377cc447edc160e4d872c63fda13d9fc, type: 3}
+  thumbnail: {fileID: 0}
+  id: 
+  Level: 1
+  TH:
+    name: "\u0E23\u0E35\u0E2A\u0E2D\u0E23\u0E4C\u0E17"
+    desc: 
+  US:
+    name: 
+    desc: 
+  price: 0
+  postcard: {fileID: 11400000, guid: df100f69730608540a76ddc5bbb56e22, type: 2}

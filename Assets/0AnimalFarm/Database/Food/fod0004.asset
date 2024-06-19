@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c2b09439e237664a9e3879a3db9f837, type: 3}
+  m_Name: fod0004
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 0293e420f84c09549b6756aedd2e1b11, type: 3}
+  thumbnail: {fileID: 0}
+  id: fod0004
+  Level: 1
+  TH:
+    name: "\u0E0A\u0E32\u0E40\u0E02\u0E35\u0E22\u0E27\u0E41\u0E1A\u0E1A\u0E14\u0E31\u0E48\u0E07\u0E40\u0E14\u0E34\u0E21"
+    desc: "\u0E23\u0E2A\u0E0A\u0E32\u0E15\u0E34\u0E02\u0E2D\u0E07\u0E0D\u0E35\u0E48\u0E1B\u0E38\u0E48\u0E19\u0E14\u0E31\u0E48\u0E07\u0E40\u0E14\u0E34\u0E21"
+  US:
+    name: Traditional Matcha
+    desc: Taste of traditional japanese
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  cookTime: 1
+  currency:
+    price: 0
+    coin: 30
+    expReward: 2
+    reqExp: 0
+  vegExpReq: 0
+  ingredients:
+  - itemName: veg0000
+    count: 20

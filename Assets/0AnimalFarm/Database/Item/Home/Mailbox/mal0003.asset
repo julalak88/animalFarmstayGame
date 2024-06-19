@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: mal0003
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: cdec62676d28bbb47b83c024680d7334, type: 3}
+  thumbnail: {fileID: 0}
+  id: mal0003
+  Level: 3
+  TH:
+    name: "\u0E15\u0E39\u0E49\u0E44\u0E1B\u0E23\u0E29\u0E13\u0E35\u0E22\u0E4CD"
+    desc: "\u0E15\u0E39\u0E49\u0E44\u0E1B\u0E23\u0E29\u0E13\u0E35\u0E22\u0E4C \n\u0E1E\u0E23\u0E49\u0E2D\u0E21\u0E23\u0E31\u0E1A\u0E02\u0E48\u0E32\u0E27\u0E08\u0E32\u0E01\u0E41\u0E14\u0E19\u0E44\u0E01\u0E25"
+  US:
+    name: mailbox
+    desc: "a box or compartment \ninto which mail"
+  itemsType: 6
+  currency:
+    price: 13600
+    coin: 0
+    expReward: 20
+    reqExp: 92
+  actionTime: 5
+  unlock_name:
+  - gst0046
+  points: []

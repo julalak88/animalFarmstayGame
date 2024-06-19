@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: tab0021
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 30b7e9918495d9d4fa52b1d8a000d1cf, type: 3}
+  thumbnail: {fileID: 21300000, guid: b12d0f06edcb4af45a699a50141d73c8, type: 3}
+  id: tab0021
+  Level: 5
+  TH:
+    name: "\u0E1E\u0E23\u0E21\u0E27\u0E34\u0E40\u0E28\u0E29"
+    desc: "\u0E1E\u0E23\u0E21\u0E27\u0E34\u0E40\u0E28\u0E29\u0E1A\u0E2D\u0E01\u0E02\u0E49\u0E32\u0E40\u0E16\u0E34\u0E14
+      \u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E08\u0E32\u0E19\u0E44\u0E2B\u0E19\u0E17\u0E35\u0E48\u0E23\u0E2A\u0E40\u0E25\u0E34\u0E28\u0E17\u0E35\u0E48\u0E2A\u0E38\u0E14\u0E43\u0E19\u0E1B\u0E10\u0E1E\u0E35"
+  US:
+    name: Magic carpet
+    desc: Carpet, carpet in the air, Which is the most delicious dish of them all?
+  itemsType: 13
+  currency:
+    price: 967600
+    coin: 22
+    expReward: 1624
+    reqExp: 24
+  actionTime: 5
+  unlock_name:
+  - gst0072
+  points: []

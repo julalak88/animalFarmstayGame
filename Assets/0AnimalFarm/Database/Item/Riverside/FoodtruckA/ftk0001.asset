@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: ftk0001
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 06bb6ce6c6893894bb4a2b9765c7bd6b, type: 3}
+  thumbnail: {fileID: 21300000, guid: 20f27d359f0815b4782c14087687c3a1, type: 3}
+  id: ftk0001
+  Level: 1
+  TH:
+    name: "\u0E23\u0E49\u0E32\u0E19\u0E01\u0E4B\u0E27\u0E22\u0E40\u0E15\u0E35\u0E4B\u0E22\u0E27\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B"
+    desc: "\u0E23\u0E49\u0E32\u0E19\u0E01\u0E4B\u0E27\u0E22\u0E40\u0E15\u0E35\u0E4B\u0E22\u0E27\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B\u0E17\u0E35\u0E48\u0E40\u0E2B\u0E47\u0E19\u0E21\u0E32\u0E15\u0E31\u0E49\u0E07\u0E41\u0E15\u0E48\u0E40\u0E14\u0E47\u0E01"
+  US:
+    name: Typical noodle shop
+    desc: A typical noodle shop that you have seen since childhood.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 10
+  currency:
+    price: 14000
+    coin: 68
+    expReward: 140
+    reqExp: 70
+  actionTime: 5
+  unlock_name:
+  - gst0019
+  - fod0008
+  - fod0011
+  - fod0012
+  points:
+  - {x: -3.45, y: -6.839}

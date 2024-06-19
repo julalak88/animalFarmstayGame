@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: bri0002
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: a71966fe13aec4c46953cdb945b18740, type: 3}
+  thumbnail: {fileID: 21300000, guid: aa69357df040ba54099cc2dbc923f573, type: 3}
+  id: bri0002
+  Level: 2
+  TH:
+    name: "\u0E2A\u0E30\u0E1E\u0E32\u0E19\u0E44\u0E21\u0E49\u0E1C\u0E08\u0E0D\u0E20\u0E31\u0E22"
+    desc: "\u0E1E\u0E2D\u0E02\u0E49\u0E32\u0E21\u0E2A\u0E30\u0E1E\u0E32\u0E19\u0E19\u0E35\u0E49\u0E44\u0E1B\u0E01\u0E32\u0E23\u0E1C\u0E08\u0E0D\u0E20\u0E31\u0E22\u0E01\u0E47\u0E40\u0E23\u0E34\u0E48\u0E21\u0E15\u0E49\u0E19\u0E17\u0E31\u0E19\u0E17\u0E35!"
+  US:
+    name: Adventure Bridge
+    desc: When you cross the bridge, the adventure begins!
+  itemsType: 9
+  currency:
+    price: 20800
+    coin: 58
+    expReward: 60
+    reqExp: 164
+  actionTime: 5
+  unlock_name: []
+  points: []

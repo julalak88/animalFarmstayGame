@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da9c255adbeba7d46a46bc3b06dd9e6d, type: 3}
+  m_Name: main
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: c3f3d212493e4b048b416247e8c59dfb, type: 3}
+  thumbnail: {fileID: 0}
+  id: 
+  Level: 1
+  TH:
+    name: 
+    desc: 
+  US:
+    name: 
+    desc: 
+  price: 0
+  postcard: {fileID: 11400000, guid: 4788a4029590b8341bc2046638d9919e, type: 2}

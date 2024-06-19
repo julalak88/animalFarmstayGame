@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: pon0003
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 60560ccd3ec305940bb7446a2da7c49f, type: 3}
+  thumbnail: {fileID: 21300000, guid: 57a2eb20fd5cc36498fbb923793a7d2f, type: 3}
+  id: pon0003
+  Level: 2
+  TH:
+    name: "\u0E1A\u0E48\u0E2D\u0E19\u0E49\u0E33\u0E41\u0E1A\u0E1A\u0E1E\u0E34\u0E40\u0E28\u0E29"
+    desc: "\u0E15\u0E48\u0E2D\u0E40\u0E15\u0E34\u0E21\u0E01\u0E4A\u0E2D\u0E01\u0E19\u0E49\u0E33\u0E41\u0E1A\u0E1A\u0E1E\u0E34\u0E40\u0E28\u0E29
+      \u0E0A\u0E48\u0E27\u0E22\u0E40\u0E1A\u0E32\u0E41\u0E23\u0E07\u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E15\u0E34\u0E21\u0E19\u0E49\u0E33\u0E44\u0E14\u0E49\u0E40\u0E22\u0E2D\u0E30\u0E40\u0E25\u0E22"
+  US:
+    name: Special Pond
+    desc: Add a special faucet that can help lighten the energy to add a lot of water.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 8
+  currency:
+    price: 45000
+    coin: 57
+    expReward: 59
+    reqExp: 298
+  actionTime: 5
+  unlock_name:
+  - gst0051
+  points:
+  - {x: 3.503, y: 0.07}

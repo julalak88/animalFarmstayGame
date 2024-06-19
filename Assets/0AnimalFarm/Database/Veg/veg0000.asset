@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f23fb7e430135704ba9423edd28ac252, type: 3}
+  m_Name: veg0000
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 31534418d151df94a9640777e39827c6, type: 3}
+  thumbnail: {fileID: 21300000, guid: fb83a9ac96e490d4aa1671f76cc6a0b4, type: 3}
+  id: veg0000
+  Level: 0
+  TH:
+    name: "\u0E01\u0E30\u0E2B\u0E25\u0E48\u0E33\u0E1B\u0E25\u0E35"
+    desc: 
+  US:
+    name: 
+    desc: 
+  plantType: 0
+  product: {fileID: 21300000, guid: a34185fae7d041749967695fb7495121, type: 3}
+  currency:
+    price: 160
+    coin: 45
+    expReward: 0
+    reqExp: 0
+  vegExpDrop: 0
+  actionTime: 5
+  growthTime: 0.5

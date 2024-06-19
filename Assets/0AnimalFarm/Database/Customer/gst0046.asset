@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e2c45e6116d0e449d6557dbb352728, type: 3}
+  m_Name: gst0046
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: c218c755e600e9747bcb707a18dd9c0f, type: 3}
+  thumbnail: {fileID: 21300000, guid: 8b8e5fa2bb5c752499da8525b8a0e652, type: 3}
+  id: gst0046
+  Level: 1
+  TH:
+    name: 
+    desc: 
+  US:
+    name: 
+    desc: 
+  type: 0
+  StoryTH:
+    story: 
+  StoryUS:
+    story: 
+  unlock_condition: []

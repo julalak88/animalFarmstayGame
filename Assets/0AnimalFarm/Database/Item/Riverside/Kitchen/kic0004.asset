@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4375d4085c70814ba7737c97e353faa, type: 3}
+  m_Name: kic0004
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  image: {fileID: 21300000, guid: 5e9d8a38a2f98594483541358c968860, type: 3}
+  thumbnail: {fileID: 21300000, guid: 5f20f840076f77148a53b604cded6aa0, type: 3}
+  id: kic0004
+  Level: 1
+  TH:
+    name: "\u0E0B\u0E36\u0E49\u0E07\u0E15\u0E34\u0E21\u0E0B\u0E33"
+    desc: "\u0E43\u0E04\u0E23\u0E46\u0E01\u0E47\u0E0A\u0E2D\u0E1A\u0E15\u0E34\u0E48\u0E21\u0E0B\u0E33
+      \u0E02\u0E19\u0E32\u0E14\u0E43\u0E0A\u0E49\u0E0B\u0E36\u0E49\u0E07\u0E2A\u0E39\u0E07
+      4 \u0E0A\u0E31\u0E49\u0E19 \u0E01\u0E47\u0E22\u0E31\u0E07\u0E19\u0E36\u0E48\u0E07\u0E44\u0E21\u0E48\u0E1E\u0E2D\u0E40\u0E25\u0E22"
+  US:
+    name: Dimsum steamer
+    desc: Everyone loves dimsun. Even 4 levels steamer still not big enough.
+  dialogTH:
+    firstmeet: 
+    hint: 
+  dialogUS:
+    firstmeet: 
+    hint: 
+  itemsType: 12
+  currency:
+    price: 55000
+    coin: 39
+    expReward: 320
+    reqExp: 41
+  actionTime: 5
+  unlock_name:
+  - fod0041
+  points: []
